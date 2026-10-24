@@ -1,6 +1,6 @@
 [package]
-name = "ultra"
-version = "0.1.0"
+name = "super-ai"
+version = "1.0.0"
 edition = "2021"
 
 [dependencies]
